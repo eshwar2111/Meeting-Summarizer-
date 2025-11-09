@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Meeting Summarizer",
+  "description": "A real-time meeting summarizer that records audio from your browser, transcribes it to text, and generates a concise summary using the Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
